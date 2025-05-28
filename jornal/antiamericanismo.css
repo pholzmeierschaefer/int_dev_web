@@ -10,7 +10,7 @@ body{
 }
 
 nav{
-    background-color: rgb(82, 82, 82);
+    background-color: rgb(62, 62, 62);
     padding: 1rem;
 }
 
@@ -24,4 +24,11 @@ section{
     margin-left: 20px;
 }
 
+.justificado{
+    text-align: justify;
+}
 
+header{
+    color: rgb(255, 255, 255);
+    background-color: rgb(88, 88, 88);
+}
