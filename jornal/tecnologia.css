@@ -20,9 +20,9 @@ nav a {
     color: white;
 }
 
-section {
+section{
     margin-top: 20px;
-    margin-left: 20px;
+    
 }
 
 .justificado {
@@ -42,3 +42,4 @@ header {
     padding: 20px 0;
     border-top: 1px solid #ccc;
 }
+
