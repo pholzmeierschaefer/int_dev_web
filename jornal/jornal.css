@@ -1,32 +1,40 @@
-body{
+body {
     font-family: Arial, Helvetica, sans-serif
 }
-.tamanho{
+
+.tamanho {
     font-size: 20px;
 }
 
-.centro{
+.centro {
     text-align: center;
 }
 
-nav{
+nav {
     background-color: rgb(82, 82, 82);
     padding: 1rem;
 }
 
-nav a{
+nav a {
     text-decoration: none;
     color: white;
 }
 
-section{
+section {
     margin-top: 20px;
     margin-left: 20px;
 }
 
-header{
+header {
     color: rgb(255, 255, 255);
-    background-color: rgb(88, 88, 88);
+    background-color: rgb(63, 0, 179);
 }
 
-
+.rodape {
+    text-align: center;
+    font-size: 14px;
+    color: #d7d7d7;
+    margin-top: 40px;
+    padding: 20px 0;
+    border-top: 1px solid #ccc;
+}

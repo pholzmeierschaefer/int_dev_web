@@ -1,39 +1,75 @@
-body{
-    font-family: Arial, Helvetica, sans-serif
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
 }
-.tamanho{
+
+.tamanho {
     font-size: 20px;
 }
 
-.centro{
+.centro {
     text-align: center;
 }
 
-nav{
+nav {
     background-color: rgb(62, 62, 62);
     padding: 1rem;
 }
 
-nav a{
+nav a {
     text-decoration: none;
     color: white;
 }
 
-section{
+section {
     margin-top: 20px;
     margin-left: 20px;
 }
 
-.justificado{
+.justificado {
     text-align: justify;
 }
 
-header{
+header {
     color: rgb(255, 255, 255);
-    background-color: rgb(88, 88, 88);
+    background-color: rgb(63, 0, 179);
 }
 
 p {
     margin-top: 0;
-    margin-bottom: 0.5rem; /* se quiser um pequeno espaço */
+    margin-bottom: 0.5rem;
+}
+
+.noticia-container {
+    max-width: 700px;
+    margin: 60px auto;
+    background-color: white;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    line-height: 1.8;
+    font-size: 18px;
+}
+
+.noticia-container p {
+    margin-bottom: 24px;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    line-height: 1.4;
+}
+
+.rodape {
+    text-align: center;
+    font-size: 14px;
+    color: #d7d7d7;
+    margin-top: 40px;
+    padding: 20px 0;
+    border-top: 1px solid #ccc;
 }
